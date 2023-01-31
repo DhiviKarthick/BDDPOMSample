@@ -11,7 +11,7 @@ import io.cucumber.testng.CucumberOptions;
 		glue="stepdefs",
 		monochrome=true,
 		//dryRun=true
-		dryRun=false
+		dryRun=true
 		 
 				
 )
